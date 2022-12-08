@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52d28409-eed9-47f6-93df-064bc052ca8a": {
+      "ProjectGuid": "52d28409-eed9-47f6-93df-064bc052ca8a",
+      "DisplayName": "ArcGIS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
